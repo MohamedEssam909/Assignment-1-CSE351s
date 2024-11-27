@@ -1,0 +1,3 @@
+﻿  gfgfg.cpp
+C:\Users\HP\source\repos\gfgfg\gfgfg\gfgfg.cpp(216,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  gfgfg.vcxproj -> C:\Users\HP\source\repos\gfgfg\x64\Debug\gfgfg.exe

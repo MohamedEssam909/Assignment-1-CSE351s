@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\gfgfg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEAD6EDC-323D-4FB5-8C2A-E9540A2ABCA3}|gfgfg\\gfgfg.vcxproj|C:\\Users\\HP\\source\\repos\\gfgfg\\gfgfg\\gfgfg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CEAD6EDC-323D-4FB5-8C2A-E9540A2ABCA3}|gfgfg\\gfgfg.vcxproj|solutionrelative:gfgfg\\gfgfg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gfgfg.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\gfgfg\\gfgfg\\gfgfg.cpp",
+              "RelativeDocumentMoniker": "gfgfg\\gfgfg.cpp",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\gfgfg\\gfgfg\\gfgfg.cpp",
+              "RelativeToolTip": "gfgfg\\gfgfg.cpp",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAAwN4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T21:12:33.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
