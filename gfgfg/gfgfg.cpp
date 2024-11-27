@@ -206,7 +206,7 @@ public:
                 }
             }
 
-            // Deliver in-order packets to application layer
+            // Deliver in-order packets to network layer
             NetworkLayer::deliver_in_order(buffer, expected_seq);
         }
     }
